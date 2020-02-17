@@ -37,4 +37,4 @@ Life Sciences
 - https://journals.sagepub.com/doi/abs/10.1177/0309132508090475?journalCode=phgb
 - http://eprints.lse.ac.uk/102949/
 + + +
-- https://theconversation.com/what-connects-shaka-zulu-decolonisation-and-mathematical-models-131246?utm_medium=Social&utm_source=Twitter#Echobox=1581927220
+- https://theconversation.com/what-connects-shaka-zulu-decolonisation-and-mathematical-models-131246
