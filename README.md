@@ -7,7 +7,7 @@ From the grant announcement:
 
 *When it comes to scientific communication and education, language matters. The ability for science to be discussed in local indigenous languages can not only help expand knowledge to those who do not speak English or French as a first language, but also can integrate the facts and methods of science into cultures that have been denied it in the past. Thus, the team will build a multilingual parallel corpus of African research, by translating African preprint research papers released on AfricArxiv into 6 diverse African languages: isiZulu, Northern Sotho, Yoruba, Hausa, Luganda, Amharic.*
 
-Read more at [info.africarxiv.org/call-for-submissions-decolonise-science/](https://info.africarxiv.org/call-for-submissions-decolonise-science/) and [masakhane.io/lacuna-fund/masakhane-mt-decolonise-science](https://masakhane.io/lacuna-fund/masakhane-mt-decolonise-science)
+Read more at [info.africarxiv.org/call-for-submissions-decolonise-science/](https://info.africarxiv.org/call-for-submissions-decolonise-science/) and [masakhane.io/ongoing-projects/masakhane-mt-decolonise-science](https://www.masakhane.io/ongoing-projects/masakhane-mt-decolonise-science)
 
 ## AfricArXiv's role in the project
 - co-developing workflow and selection process
